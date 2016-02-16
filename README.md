@@ -6,6 +6,10 @@ The video below is more than you need to know, so instead, focus on the key poin
 
 If you'd like to watch the video, please do, but know you won't need to fully understand the process.
 
+<iframe width="640" height="480" src="//www.youtube.com/embed/ao532DhZWiY?rel=0" frameborder="0" allowfullscreen></iframe>
+
+[Slides from the Video](https://docs.google.com/presentation/d/1eU-4wD5dsxV1t-3CA3T82gbv2K3pAs92pq30HlmXM_U/edit?usp=sharing)
+
 ![request response cycle](https://ruslanspivak.com/lsbaws-part1/LSBAWS_HTTP_request_response.png "ruslanspivak.com")
 
 
@@ -32,9 +36,3 @@ When the server sends back a response, it contains a header (which is meta data 
 * **JavaScript** - the brains of the webpage. Javascript allows a webpage to interact with the user (by responding to the mouse or keyboard) and can also do data processing.
 
 In the CSSI prework, you will learn the fundamentals of each of these three components and will deepen your understanding of how they all work together to deliver endless amounts of content to your sleep-deprived eyes.
-
-<iframe width="640" height="480" src="//www.youtube.com/embed/ao532DhZWiY?rel=0" frameborder="0" allowfullscreen></iframe>
-
-[Slides from the Video](https://docs.google.com/presentation/d/1eU-4wD5dsxV1t-3CA3T82gbv2K3pAs92pq30HlmXM_U/edit?usp=sharing)
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-how-the-web-works' title='How The Web Works ~ 9min'>How The Web Works ~ 9min</a>Watch this video to get an introduction to how the web works!</p>
