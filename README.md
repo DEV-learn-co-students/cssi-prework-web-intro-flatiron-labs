@@ -1,6 +1,14 @@
 ## How The Web Works
 
-To get you started on your path to building your own web app (and to help your future students build their own) it's good to have a high-level overview on how the web works.
+Now that your environment is set up, it's time to start diving into the content. To get you started on your path to building your own web app (and to help your future students build their own) it's good to have a high-level overview on how the web works. This lesson breaks down the very basics of this complex process.  
+
+## Objectives
+In this lesson you will learn about 
+* The Role of Browsers vs Servers
+* HTTP Requests and Responses
+* The Three Languages of the Web: HTML, CSS, JavaScript
+
+
 
 The video below is more than you need to know, so instead, focus on the key points and terminology below.
 
